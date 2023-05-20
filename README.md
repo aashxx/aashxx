@@ -11,7 +11,9 @@
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JQuery](https://img.shields.io/badge/jquery-%231572B6.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Backend Development
@@ -24,8 +26,8 @@
 ### Programming and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/vscode-3670A0?style=for-the-badge&logo=vscode&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=ffdd54)
-![GitHub](https://img.shields.io/badge/github-3670A0?style=for-the-badge&logo=github&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=red)
+![GitHub](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white)
 
 ## Things I'm Learning
 ![React](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=React&logoColor=white)
