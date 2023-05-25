@@ -35,9 +35,9 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashxx&show_icons=true&locale=en&layout=compact" alt="aashxx" /></p>
-
+# Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashxx&show_icons=true&locale=en" alt="aashxx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashxx&show_icons=true&locale=en&layout=compact" alt="aashxx" /></p>
 
 ## 🔗 Links
 <p align="left">
