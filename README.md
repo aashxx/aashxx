@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashxx&label=Profile%20views&color=0e75b6&style=flat" alt="aashxx" /> </p>
 
 ## 🚀 About Me
-- 🧠 I’m currently learning **Fullstack Development**
-
+- ⚒  I'm working on **Frontend Development**
+- 🧠 I'm currently learning **Fullstack Development**
+- 🏫 I'm pursuing a **Computer Science** degree
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
 ### Frontend Development
