@@ -9,7 +9,7 @@
 - 🏫 I'm pursuing a **Computer Science** degree
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
-### Frontend Development
+### 👩‍💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend Development
+### 👩‍💻 Backend Development
 ![PHP](https://img.shields.io/badge/php-%23316192.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -28,17 +28,17 @@
 ![MySql](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Programming and Tools
+### ⚙ Programming and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/vscode-3670A0?style=for-the-badge&logo=vscode&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white)
 
-## Things I'm Learning
+## 📚 Things I'm Learning
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-# Stats
+# 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashxx&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashxx&layout=compact&langs_count=10)
 
