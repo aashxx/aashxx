@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - ⚒  I'm working on **Fullstack Development**
-- 🧠 I'm currently learning **Serverless Tools**
+- 🧠 I'm currently learning **Serverless Tools and DevOps**
 - 🏫 I'm pursuing a **Computer Science** degree
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
