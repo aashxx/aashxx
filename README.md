@@ -12,10 +12,8 @@
 ### 👩‍💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-%231572B6.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -30,13 +28,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySql](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-3670A0.svg?style=for-the-badge&logo=firebase&logoColor=orange)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-0b57d0.svg?style=for-the-badge&logo=firebase&logoColor=orange)
+![Supabase](https://img.shields.io/badge/Supabase-228B22?style=for-the-badge&logo=supabase&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-black?style=for-the-badge&logo=drizzle&logoColor=yellow)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### ⚙ Programming and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/vs_code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma)
+![Webflow](https://img.shields.io/badge/Webflow-black.svg?style=for-the-badge&logo=webflow&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white)
 
@@ -52,6 +54,7 @@
 <p align="left">
 <a href="https://instagram.com/mohamed_aashir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_aashir_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aashxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed_aashir_" height="30" width="40" /></a>
+<a href="https://twitter.com/aashirtweetz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_aashir_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/aashir117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashir117" height="30" width="40" /></a>
 </p>
 
