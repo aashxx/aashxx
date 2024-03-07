@@ -22,6 +22,8 @@
 ![ChakraUI](https://img.shields.io/badge/chakra_ui-%230db7ed.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-%23F7DF1E.svg?style=for-the-badge&logo=electron)
+![Vite](https://img.shields.io/badge/vite-%23F7DF1E.svg?style=for-the-badge&logo=vite)
 
 ### 👩‍💻 Backend Development
 ![PHP](https://img.shields.io/badge/php-%23316192.svg?style=for-the-badge&logo=php&logoColor=white)
