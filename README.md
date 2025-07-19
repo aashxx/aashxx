@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 - ⚒  I'm working on **SASS Development**
-- 🧠 I'm currently learning **DevOps Tools**
-- 🏫 I'm pursuing a **Computer Science** degree
+- 🧠 I'm currently learning **Server Tools**
+- 👨🏻‍💻 I'm a **Solutions Consultant** at Kissflow
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
 ### 👩‍💻 Frontend Development
