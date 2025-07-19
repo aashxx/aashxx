@@ -46,14 +46,12 @@
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-black?style=for-the-badge&logo=drizzle&logoColor=yellow)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### ⚙ Programming and Tools
+### ⚙ Programming & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs_code-20232A?style=for-the-badge&logo=vs-code&logoColor=blue)
-![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white)
@@ -72,9 +70,9 @@
 
 ## 🔗 Links
 <p align="left">
-<a href="https://instagram.com/mohamed_aashir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_aashir_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aashxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed_aashir_" height="30" width="40" /></a>
-<a href="https://twitter.com/aashirtweetz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_aashir_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aashir117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashir117" height="30" width="40" /></a>
+<a href="https://instagram.com/mohamed_aashir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_aashir_" height="30" width="40" /> 
+<a href="https://www.linkedin.com/in/aashxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed_aashir_" height="30" width="40" />  
+<a href="https://twitter.com/aashirtweetz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_aashir_" height="30" width="40" /> 
+<a href="https://www.hackerearth.com/aashir117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashir117" height="30" width="40" />
 </p>
 
