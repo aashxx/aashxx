@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - ⚒  I'm working on **Low Code Software Development**
-- 🧠 I'm currently learning **Software Architecture Design**
+- 🧠 I'm currently learning **SW Architecture Design**
 - 👨🏻‍💻 I'm a **Solutions Consultant** at Kissflow
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
