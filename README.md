@@ -56,13 +56,13 @@
 ![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-white.svg?style=for-the-badge&logo=redis&logoColor=red)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/gcp-%23007ACC.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ## 📚 Tech I'm Learning
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Redis](https://img.shields.io/badge/redis-white.svg?style=for-the-badge&logo=redis&logoColor=red)
 
 # 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashxx&show_icons=true)
