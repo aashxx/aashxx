@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aashxx&label=Profile%20views&color=0e75b6&style=flat" alt="aashxx" /> </p>
 
 ## 🚀 About Me
-- ⚒  I'm working on **Low Code Software Development**
-- 🧠 I'm currently learning **SW Architecture Design**
-- 👨🏻‍💻 I'm a **Solutions Consultant** at Kissflow
+- ⚒  I'm working on **Product Integrations**
+- 🧠 I'm currently learning **Agentic AI Implementation4**
+- 👨🏻‍💻 I'm a **Software Engineer** at Berribot
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
 ### 👩‍💻 Frontend Development
@@ -69,10 +69,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashxx&layout=compact&langs_count=10)
 
 ## 🔗 Links
-<p align="left">
-<a href="https://instagram.com/mohamed_aashir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_aashir_" height="30" width="40" /> 
-<a href="https://www.linkedin.com/in/aashxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed_aashir_" height="30" width="40" />  
-<a href="https://twitter.com/aashirtweetz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_aashir_" height="30" width="40" /> 
-<a href="https://www.hackerearth.com/aashir117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashir117" height="30" width="40" />
-</p>
-
+<table>
+<tr>
+<td><a href="https://instagram.com/mohamed_aashir_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"></a></td>
+<td><a href="https://www.linkedin.com/in/aashxx/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a></td>
+<td><a href="https://twitter.com/aashirtweetz/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"></a></td>
+<td><a href="https://www.hackerearth.com/aashir117"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"></a></td>
+</tr>
+</table>
