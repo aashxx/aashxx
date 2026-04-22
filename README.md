@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - ⚒  I'm working on **Product Integrations**
-- 🧠 I'm currently learning **Agentic AI Implementation4**
+- 🧠 I'm currently learning **Agentic AI Implementation**
 - 👨🏻‍💻 I'm a **Software Engineer** at Berribot
 - 📫 How to reach me **tmohamedaashir@gmail.com**
 
